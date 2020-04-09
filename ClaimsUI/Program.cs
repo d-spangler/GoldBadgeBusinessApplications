@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClaimsUI
+namespace _02_ClaimsUI
 {
     public class Program
     {

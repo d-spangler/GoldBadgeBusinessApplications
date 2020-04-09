@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClaimsContent_Tests
+namespace _02_ClaimsTests
 {
     [TestClass]
     public class ClaimsRepoTests

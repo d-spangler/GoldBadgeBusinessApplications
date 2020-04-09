@@ -2,7 +2,7 @@
 using _02_Claims;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace ClaimsContent_Tests
+namespace _02_ClaimsTests
 {
     [TestClass]
     public class ClaimsContentTest

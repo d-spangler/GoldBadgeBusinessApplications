@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\02_ClaimsRepo\obj\Debug\02_Claims.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\02_ClaimsRepo\obj\Debug\02_Claims.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\02_ClaimsRepo\bin\Debug\02_ClaimsRepo.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\02_ClaimsRepo\bin\Debug\02_ClaimsRepo.pdb
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\02_ClaimsRepo\obj\Debug\02_ClaimsRepo.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\02_ClaimsRepo\obj\Debug\02_ClaimsRepo.pdb

@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\01_CafeUI\bin\Debug\01_CafeUI.exe.config
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\01_CafeUI\bin\Debug\01_CafeUI.exe
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\01_CafeUI\bin\Debug\01_CafeUI.pdb
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\01_CafeUI\bin\Debug\01_Cafe.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\01_CafeUI\bin\Debug\01_Cafe.pdb
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\01_CafeUI\obj\Debug\01_CafeUI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\01_CafeUI\obj\Debug\01_CafeUI.csproj.CopyComplete
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\01_CafeUI\obj\Debug\01_CafeUI.exe
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\01_CafeUI\obj\Debug\01_CafeUI.pdb
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\01_CafeUI\obj\Debug\01_CafeUI.csprojAssemblyReference.cache

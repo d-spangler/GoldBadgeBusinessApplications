@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsUI\obj\Debug\02_ClaimsUI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsUI\bin\Debug\ClaimsUI.exe.config
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsUI\bin\Debug\ClaimsUI.exe
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsUI\bin\Debug\ClaimsUI.pdb
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsUI\bin\Debug\02_ClaimsRepo.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsUI\bin\Debug\02_ClaimsRepo.pdb
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsUI\obj\Debug\02_ClaimsUI.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsUI\obj\Debug\02_ClaimsUI.csproj.CopyComplete
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsUI\obj\Debug\ClaimsUI.exe
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsUI\obj\Debug\ClaimsUI.pdb

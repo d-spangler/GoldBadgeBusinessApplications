@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsContent_Tests\bin\Debug\ClaimsContent_Tests.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsContent_Tests\bin\Debug\ClaimsContent_Tests.pdb
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsContent_Tests\obj\Debug\02_ClaimsTests.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsContent_Tests\obj\Debug\02_ClaimsTests.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsContent_Tests\obj\Debug\02_ClaimsTests.csproj.CopyComplete
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsContent_Tests\obj\Debug\ClaimsContent_Tests.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsContent_Tests\obj\Debug\ClaimsContent_Tests.pdb
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsContent_Tests\bin\Debug\02_ClaimsRepo.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\ClaimsContent_Tests\bin\Debug\02_ClaimsRepo.pdb

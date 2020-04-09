@@ -1,0 +1,13 @@
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\03_Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\03_Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\03_Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\03_Badges_Tests\bin\Debug\03_Badges_Tests.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\03_Badges_Tests\bin\Debug\03_Badges_Tests.pdb
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\03_Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\03_Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\03_Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\03_Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\03_Badges_Tests\obj\Debug\03_Badges_Tests.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\03_Badges_Tests\obj\Debug\03_Badges_Tests.csproj.CopyComplete
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\03_Badges_Tests\obj\Debug\03_Badges_Tests.dll
+C:\ElevenFiftyProjects\SD48GoldBadge\BusinessChallenges\03_Badges_Tests\obj\Debug\03_Badges_Tests.pdb
